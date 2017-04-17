@@ -12,7 +12,7 @@ In order to play the game, you need to choose one of the methods.
  - Find out the index.html in your file
  - open index.html file in your browser to play
 ### Link
-you can simply click [here]() to play the game !
+you can simply click [here](https://weekendchow.github.io/MoZhou-frontend-nanodegree-arcade-game/) to play the game !
  
 ## How To Play
  - Use keyboards to control player's directions(left, right, up, down)
