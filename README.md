@@ -2,7 +2,7 @@ Frontend-Nanodegree-Arcade-Game
 ===============================
 This Frogger game is a project for Udacity Frontend Nanodegree. We have a player object and Enemies object. Enemies will crossing through the road and player can move by keyboard to avoid the enemies. If player collide with enemies then game over. If player reaches the water without collision then player wins!
 
-![GameScreen]()
+![GameScreen](https://github.com/weekendchow/MoZhou-frontend-nanodegree-arcade-game/blob/master/images/sreenshot.png)
 
 ## Getting Stared
 In order to play the game, you need to choose one of the methods.
